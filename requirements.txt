@@ -1,0 +1,5 @@
+chromadb 
+gradio 
+pandas 
+numpy 
+sentence-transformers
