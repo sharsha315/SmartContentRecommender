@@ -1,0 +1,62 @@
+{
+    "title": [
+        "Python 101: A Beginners Guide to Python Programming",
+        "Learning Python Pandas Library: A Comprehensive Guide with Code Examples",
+        "Python Programming Basics: Statements, Comments, and Data Types",
+        "Machine Learning Tutorials for Beginners completely Free",
+        "The Fundamental Mathematics of Machine Learning",
+        "Artificial Intelligence - An Overview",
+        "What is AI? Artificial Intelligence explained",
+        "Web Development for Beginners: A new Learning Path on Microsoft Learn",
+        "Web Development Guide For Absolute Beginners",
+        "Learn Full-Stack Web Development with React and GraphQL by Building a Sticky Note App - Part one"
+    ],
+    "description": [
+        "Comprehensive guide to Python programming fundamentals including data types, functions, and OOP concepts",
+        "Python Pandas library is a powerful tool for data manipulation and analysis.",
+        "Master Python Programming Basics: Learn About Statements, Comments, Variables, and Data Types in Python.",
+        "In this article I came up with Best YouTube Tutorials and Website for starting your Journey with Machine Learning",
+        "A Deep Dive into Vector Norms, Linear Algebra, Calculus",
+        "Artificial Intelligence - An Overview",
+        "A guide to artificial intelligence in the enterprise",
+        "Web Development for Beginners: A new Learning Path on Microsoft Learn",
+        "Web Development Guide For Absolute Beginners",
+        "Learn Full-Stack Web Development with React and GraphQL by Building a Sticky Note App - Part one"
+    ],
+    "category": [
+        "Programming",
+        "Programming",
+        "Programming",
+        "Machine Learning",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Artificial Intelligence",
+        "Web Development",
+        "Web Development",
+        "Web Development"
+    ],
+    "author": [
+        "DM Codinius",
+        "Python Programming",
+        "Arnav Singh",
+        "Mr.Shah",
+        "Joseph Robinson, Ph.D",
+        "Attaullah Shafiq",
+        "Lev Craig",
+        "Chris Noring",
+        "Bhavesh Goyal",
+        "Temitope"
+    ],
+    "url": [
+        "https://dev.to/codinius/python-101-a-beginners-guide-to-python-programming-1b95",
+        "https://medium.com/@LearnPythonProgramming/learning-python-pandas-library-a-comprehensive-guide-with-code-examples-dfec8e0b7d68",
+        "https://pythonfornoobs.hashnode.dev/python-basics",
+        "https://dev.to/shahstavan/machine-learning-tutorials-completely-free-4927",
+        "https://medium.com/towards-artificial-intelligence/the-fundamental-mathematics-of-machine-learning-39c2418d19c6",
+        "https://dev.to/attaullahshafiq10/artificial-intelligence-an-overview-4ma3",
+        "https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence",
+        "https://dev.to/azure/web-dev-for-beginners-on-learn-4fpk",
+        "https://dev.to/dsc_ciet/web-development-guide-for-absolute-beginners-235f",
+        "https://dev.to/kingdavid/learn-full-stack-web-development-with-react-and-graphql-by-building-a-sticky-note-app-part-one-4kck"
+    ]
+}
