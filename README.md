@@ -76,7 +76,9 @@ python src/app.py
 - Fast retrieval system
 
 ## Demo Video
-![Smart Content Recommender Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Smart Content Recommender Demo Video](https://cdn.loom.com/sessions/thumbnails/81b36da6727d49bb87028b9ee69980ed-d9879038e57210ad-full-play.gif)](https://www.loom.com/share/81b36da6727d49bb87028b9ee69980ed)
+
+
 
 ## Technical Highlights
 
